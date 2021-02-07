@@ -15,6 +15,7 @@ Data can be filtered by more than one criteria. The table is filtered once the d
 
 ## Summary
 **Drawback of Webpage** 
+
 One disadvantage of this webpage is that the search criteria must be input exactly as it appears in the data. For example, if the user wants to filter the data by sightings in California, the data will only filter if "ca" is input into the "State" text field. It will not filter is "California" is entered. 
 
 **Recommendations** 
